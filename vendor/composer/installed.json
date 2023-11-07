@@ -1,0 +1,50 @@
+{
+    "packages": [
+        {
+            "name": "a.vorobeva/package",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/4ng5tymck00l/package.git",
+                "reference": "23d3a0341ca39710a0966ed90c1a3bcc5d82be3d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/4ng5tymck00l/package/zipball/23d3a0341ca39710a0966ed90c1a3bcc5d82be3d",
+                "reference": "23d3a0341ca39710a0966ed90c1a3bcc5d82be3d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "time": "2023-11-07T08:56:26+00:00",
+            "default-branch": true,
+            "type": "project",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "App\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Anastasia Vorobeva",
+                    "role": "Developer"
+                }
+            ],
+            "homepage": "https://github.com/4ng5tymck00l/package",
+            "support": {
+                "issues": "https://github.com/4ng5tymck00l/package/issues",
+                "source": "https://github.com/4ng5tymck00l/package/tree/master"
+            },
+            "install-path": "../a.vorobeva/package"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "a.vorobeva/composer",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "AVorobeva\\Composer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "a.vorobeva/package": "dev-master"
+    }
+}
